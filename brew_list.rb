@@ -1,5 +1,5 @@
 class BrewList < Formula
-  desc "Enhancd brew list"
+  desc "Enhanced brew_list"
   homepage "https://github.com/konnano/brew_list"
   url "https://github.com/konnano/brew_list/releases/download/v_1.07_8/brew_list"
   version "1.07.8"
