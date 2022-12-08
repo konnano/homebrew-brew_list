@@ -15,6 +15,6 @@ class BrewList < Formula
   end
 
   test do
-    system "false"
+    system "bl -new"
   end
 end
