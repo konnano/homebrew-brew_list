@@ -12,9 +12,10 @@ class BrewList < Formula
 
   def install
     bin.install "bl"
+    system "bl -new"
   end
 
   test do
-    system "bl -new"
+    system "false"
   end
 end
