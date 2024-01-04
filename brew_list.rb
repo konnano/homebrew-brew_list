@@ -7,7 +7,7 @@ class BrewList < Formula
 
   bottle do
     root_url "https://github.com/konnano/homebrew-brew_list/releases/download/v1.20.5"
-    sha256 cellar: :any_skip_relocation, all: "70176e0949e69d0a8519ff3b328cfe83de52ffd778df6a3a66da0d9d87bc788f "
+    sha256 cellar: :any_skip_relocation, all: "70176e0949e69d0a8519ff3b328cfe83de52ffd778df6a3a66da0d9d87bc788f"
   end
 
   def install
