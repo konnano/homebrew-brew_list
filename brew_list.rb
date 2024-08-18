@@ -1,7 +1,7 @@
 class BrewList < Formula
   desc "Enhanced brew list"
   homepage "https://github.com/konnano/brew_list"
-  url "https://github.com/konnano/brew_list/releases/download/v1.26.6/bl"
+  url "https://github.com/konnano/brew_list/releases/download/v1.26.7/bl"
   version "1.26.7"
   sha256 "64eb4b32da37f95943131956f6e75f85a45a9e2d1da07bc308ff219fb8c323f7"
   license "MIT"
