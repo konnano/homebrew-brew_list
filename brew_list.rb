@@ -1,14 +1,14 @@
 class BrewList < Formula
   desc "Extended brew list"
   homepage "https://github.com/konnano/brew_list"
-  url "https://github.com/konnano/brew_list/releases/download/v1.27.6/bl"
-  version "1.27.6"
-  sha256 "20562a3dd42961059534f4555a3ac2a3bb6315655be313b41ec52d4c389eb1b4"
+  url "https://github.com/konnano/brew_list/releases/download/v1.27.7/bl"
+  version "1.27.7"
+  sha256 "101f8025cade18794ec08add42d9bdb103a60eda9c61dd46b13f68b1ab946ac6"
   license "MIT"
 
   bottle do
-    root_url "https://github.com/konnano/homebrew-brew_list/releases/download/v1.27.6"
-    sha256 cellar: :any_skip_relocation, all: "0cdda1c6c121621fdfaeff4634bc16ba3ef0ed1943dd266e153ee74046eaaece"
+    root_url "https://github.com/konnano/homebrew-brew_list/releases/download/v1.27.7"
+    sha256 cellar: :any_skip_relocation, all: "450043fc76aa5c203aa35e08c77f01db6790f0b4495d59895a593d2c07acd93a"
   end
 
   def install
